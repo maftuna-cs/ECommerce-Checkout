@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'tt_norms',Arial,Helvetica,sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+    color: rgb(122, 121, 121);
+    background: white;
+    
+  } 
+
+  .calc-field {
+    background: #c3daf8;
+    margin: 2em auto;
+    padding: 3em 4em;
+    width: 100%;
+    max-width: 480px;
+    border-radius: .3em;
+    box-shadow: 0 .2em .3em rgba(99, 123, 128, 0.4)
+  }
+
+  .calc-btn {
+    color: white;
+    background-color: rgb(52, 84, 94);
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+    height: 2em;
+    margin-top: 1.2em;
+  }  
+  .display-result {
+    list-style: none;
+  }
+  

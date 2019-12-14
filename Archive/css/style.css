@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+      background-color: white;
+      color: black;
+      font-family: 'Raleway';
+  }
+
+  .calc-field {
+    padding: 2em;
+    width: 40%;
+  }
+
+  .calc-btn {
+    color: white;
+    background-color: #EB5757;
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+    height: 2em;
+    margin-top: 1.2em;
+  }  
+  
